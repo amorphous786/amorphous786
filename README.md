@@ -53,7 +53,23 @@ Profile Views Count
       <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40">
     </td>
   </tr>
-  
+  <tr>
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" title="TypeScript" alt="TypeScript" width="100" height="40">
+    </td>   
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>
+    </td>
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" title="Github"  alt="Github" width="100" height="60"/>
+    </td>
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" title="PostgreSQL"  alt="PostgreSQL" width="100" height="60"/>
+    </td>   
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" title="Django"  alt="Node" width="100" height="60"/>
+    </td>
+  </tr> 
 </table>
 
 
